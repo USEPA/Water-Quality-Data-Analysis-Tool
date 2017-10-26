@@ -1,0 +1,45 @@
+PARM,Media,WBODY,USE_OR_CLASS,Sample_Fraction,Unit,Criteria,m,b,Hardness_default,CF
+Arsenic,Water,,,,ug/L,Freshwater Acute,,,3,1
+Arsenic,Water,,,,ug/L,Freshwater Chronic,,,4,1
+Arsenic,Water,,,,ug/L,Saltwater Acute,,,,
+Arsenic,Water,,,,ug/L,Saltwater Chronic,,,,
+Cadmium,Water,,,,ug/L,Freshwater Acute,0.9789,-3.866,2,
+Cadmium,Water,,,,ug/L,Freshwater Chronic,0.7977,-3.909,2.5,
+Cadmium,Water,,,,ug/L,Saltwater Acute,,,,
+Cadmium,Water,,,,ug/L,Saltwater Chronic,,,,
+Chromium III,Water,,,,ug/L,Freshwater Acute,0.819,3.7256,5,0.316
+Chromium III,Water,,,,ug/L,Freshwater Chronic,0.819,0.6848,1,0.86
+Chromium III,Water,,,,ug/L,Saltwater Acute,,,,
+Chromium III,Water,,,,ug/L,Saltwater Chronic,,,,
+Chromium VI,Water,,,,ug/L,Freshwater Acute,,,4.5,0.982
+Chromium VI,Water,,,,ug/L,Freshwater Chronic,,,6,0.962
+Chromium VI,Water,,,,ug/L,Saltwater Acute,,,,
+Chromium VI,Water,,,,ug/L,Saltwater Chronic,,,,
+Copper,Water,,,,ug/L,Freshwater Acute,,,3.5,0.96
+Copper,Water,,,,ug/L,Freshwater Chronic,,,2,0.96
+Copper,Water,,,,ug/L,Saltwater Acute,,,,
+Copper,Water,,,,ug/L,Saltwater Chronic,,,,
+Lead,Water,,,,ug/L,Freshwater Acute,1.273,-1.46,4,
+Lead,Water,,,,ug/L,Freshwater Chronic,1.273,-4.705,4.4,
+Lead,Water,,,,ug/L,Saltwater Acute,,,,
+Lead,Water,,,,ug/L,Saltwater Chronic,,,,
+Mercury,Water,,,,ug/L,Freshwater Acute,,,2,0.85
+Mercury,Water,,,,ug/L,Freshwater Chronic,,,3,0.85
+Mercury,Water,,,,ug/L,Saltwater Acute,,,,
+Mercury,Water,,,,ug/L,Saltwater Chronic,,,,
+Nickel,Water,,,,ug/L,Freshwater Acute,0.846,2.255,4,0.998
+Nickel,Water,,,,ug/L,Freshwater Chronic,0.846,0.0584,5,0.997
+Nickel,Water,,,,ug/L,Saltwater Acute,,,,
+Nickel,Water,,,,ug/L,Saltwater Chronic,,,,
+Selenium,Water,,,,ug/L,Freshwater Acute,,,,
+Selenium,Water,,,,ug/L,Freshwater Chronic,,,,
+Selenium,Water,,,,ug/L,Saltwater Acute,,,,
+Selenium,Water,,,,ug/L,Saltwater Chronic,,,,
+Silver,Water,,,,ug/L,Freshwater Acute,1.72,-6.59,3,0.85
+Silver,Water,,,,ug/L,Freshwater Chronic,,,,
+Silver,Water,,,,ug/L,Saltwater Acute,,,,
+Silver,Water,,,,ug/L,Saltwater Chronic,,,,
+Zinc,Water,,,,ug/L,Freshwater Acute,0.8473,0.884,7,0.978
+Zinc,Water,,,,ug/L,Freshwater Chronic,0.8473,0.884,8,0.986
+Zinc,Water,,,,ug/L,Saltwater Acute,,,,
+Zinc,Water,,,,ug/L,Saltwater Chronic,,,,

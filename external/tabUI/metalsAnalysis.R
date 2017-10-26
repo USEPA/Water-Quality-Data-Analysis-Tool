@@ -1,0 +1,65 @@
+
+function(){
+  tabItem(
+    tabName = "metals",
+    br(),
+    fluidRow(column(8, #offset =1, 
+                    bsCollapse(open = c("Download panel"),
+                               multiple = TRUE,
+      bsCollapsePanel(title = "Download panel", style = "info",
+                      downloadButton("Criteria_metals", "Download a metals analysis spreadsheet example", icon = icon("download")))
+                    #downloadbuttonUI("criteria", label = "Download the criteria file")
+      
+      )
+      )),
+      br(),
+    fluidRow(column(8, 
+                    bsCollapse(open = c("Upload panel"),
+                               multiple = TRUE,
+                               bsCollapsePanel(title = "Upload panel", style = "info",
+                                               csvFileInput("metalscriteriaFile", "Upload the parameter file (.csv format)"))
+                               
+                    
+                    )
+                    ),
+             br(),
+             br(),
+   fluidRow(column(10, offset =1,
+                   DT::dataTableOutput("metals_table")
+   )
+   )
+             )
+      )
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

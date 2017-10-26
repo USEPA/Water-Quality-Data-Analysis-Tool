@@ -1,0 +1,45 @@
+"Metal","Media","WBODY","USE_OR_CLASS","Sample_Fraction","Unit","Criteria.Type","m","b","Hardness_default","CF"
+"Arsenic","Water",NA,NA,NA,"ug/L","Freshwater Acute",NA,NA,3,1
+"Arsenic","Water",NA,NA,NA,"ug/L","Freshwater Chronic",NA,NA,4,1
+"Arsenic","Water",NA,NA,NA,"ug/L","Saltwater Acute",NA,NA,NA,NA
+"Arsenic","Water",NA,NA,NA,"ug/L","Saltwater Chronic",NA,NA,NA,NA
+"Cadmium","Water",NA,NA,NA,"ug/L","Freshwater Acute",0.9789,-3.866,2,NA
+"Cadmium","Water",NA,NA,NA,"ug/L","Freshwater Chronic",0.7977,-3.909,2.5,NA
+"Cadmium","Water",NA,NA,NA,"ug/L","Saltwater Acute",NA,NA,NA,NA
+"Cadmium","Water",NA,NA,NA,"ug/L","Saltwater Chronic",NA,NA,NA,NA
+"Chromium III","Water",NA,NA,NA,"ug/L","Freshwater Acute",0.819,3.7256,5,0.316
+"Chromium III","Water",NA,NA,NA,"ug/L","Freshwater Chronic",0.819,0.6848,1,0.86
+"Chromium III","Water",NA,NA,NA,"ug/L","Saltwater Acute",NA,NA,NA,NA
+"Chromium III","Water",NA,NA,NA,"ug/L","Saltwater Chronic",NA,NA,NA,NA
+"Chromium VI","Water",NA,NA,NA,"ug/L","Freshwater Acute",NA,NA,4.5,0.982
+"Chromium VI","Water",NA,NA,NA,"ug/L","Freshwater Chronic",NA,NA,6,0.962
+"Chromium VI","Water",NA,NA,NA,"ug/L","Saltwater Acute",NA,NA,NA,NA
+"Chromium VI","Water",NA,NA,NA,"ug/L","Saltwater Chronic",NA,NA,NA,NA
+"Copper","Water",NA,NA,NA,"ug/L","Freshwater Acute",NA,NA,3.5,0.96
+"Copper","Water",NA,NA,NA,"ug/L","Freshwater Chronic",NA,NA,2,0.96
+"Copper","Water",NA,NA,NA,"ug/L","Saltwater Acute",NA,NA,NA,NA
+"Copper","Water",NA,NA,NA,"ug/L","Saltwater Chronic",NA,NA,NA,NA
+"Lead","Water",NA,NA,NA,"ug/L","Freshwater Acute",1.273,-1.46,4,NA
+"Lead","Water",NA,NA,NA,"ug/L","Freshwater Chronic",1.273,-4.705,4.4,NA
+"Lead","Water",NA,NA,NA,"ug/L","Saltwater Acute",NA,NA,NA,NA
+"Lead","Water",NA,NA,NA,"ug/L","Saltwater Chronic",NA,NA,NA,NA
+"Mercury","Water",NA,NA,NA,"ug/L","Freshwater Acute",NA,NA,2,0.85
+"Mercury","Water",NA,NA,NA,"ug/L","Freshwater Chronic",NA,NA,3,0.85
+"Mercury","Water",NA,NA,NA,"ug/L","Saltwater Acute",NA,NA,NA,NA
+"Mercury","Water",NA,NA,NA,"ug/L","Saltwater Chronic",NA,NA,NA,NA
+"Nickel","Water",NA,NA,NA,"ug/L","Freshwater Acute",0.846,2.255,4,0.998
+"Nickel","Water",NA,NA,NA,"ug/L","Freshwater Chronic",0.846,0.0584,5,0.997
+"Nickel","Water",NA,NA,NA,"ug/L","Saltwater Acute",NA,NA,NA,NA
+"Nickel","Water",NA,NA,NA,"ug/L","Saltwater Chronic",NA,NA,NA,NA
+"Selenium","Water",NA,NA,NA,"ug/L","Freshwater Acute",NA,NA,NA,NA
+"Selenium","Water",NA,NA,NA,"ug/L","Freshwater Chronic",NA,NA,NA,NA
+"Selenium","Water",NA,NA,NA,"ug/L","Saltwater Acute",NA,NA,NA,NA
+"Selenium","Water",NA,NA,NA,"ug/L","Saltwater Chronic",NA,NA,NA,NA
+"Silver","Water",NA,NA,NA,"ug/L","Freshwater Acute",1.72,-6.59,3,0.85
+"Silver","Water",NA,NA,NA,"ug/L","Freshwater Chronic",NA,NA,NA,NA
+"Silver","Water",NA,NA,NA,"ug/L","Saltwater Acute",NA,NA,NA,NA
+"Silver","Water",NA,NA,NA,"ug/L","Saltwater Chronic",NA,NA,NA,NA
+"Zinc","Water",NA,NA,NA,"ug/L","Freshwater Acute",0.8473,0.884,7,0.978
+"Zinc","Water",NA,NA,NA,"ug/L","Freshwater Chronic",0.8473,0.884,8,0.986
+"Zinc","Water",NA,NA,NA,"ug/L","Saltwater Acute",NA,NA,NA,NA
+"Zinc","Water",NA,NA,NA,"ug/L","Saltwater Chronic",NA,NA,NA,NA

@@ -1,0 +1,61 @@
+PARM,Media,WBODY,USE_OR_CLASS,Sample_Fraction,Units,Criterion,m,b,Hardness_default,CF
+Arsenic,Water,,WWAL,,ug/l,Freshwater Acute,,,3,1
+Arsenic,Water,,WWAL,,ug/l,Freshwater Chronic,,,4,1
+Arsenic,Water,,DWI,,ug/l,Freshwater Acute,,,3,1
+Arsenic,Water,,DWI,,ug/l,Freshwater Chronic,,,4,1
+Arsenic,Water,,PCR,,ug/l,Freshwater Acute,,,3,1
+Arsenic,Water,,PCR,,ug/l,Freshwater Chronic,,,4,1
+Arsenic,Water,,WWAL,,ug/l,Saltwater Acute,,,,
+Arsenic,Water,,WWAL,,ug/l,Saltwater Chronic,,,,
+Cadmium,Water,,WWAL,,ug/l,Freshwater Acute,0.9789,-3.866,2,
+Cadmium,Water,,WWAL,,ug/l,Freshwater Chronic,0.7977,-3.909,2.5,
+Cadmium,Water,,DWI,,ug/l,Freshwater Acute,0.9789,-3.866,2,
+Cadmium,Water,,DWI,,ug/l,Freshwater Chronic,0.7977,-3.909,2.5,
+Cadmium,Water,,PCR,,ug/l,Freshwater Acute,0.9789,-3.866,2,
+Cadmium,Water,,PCR,,ug/l,Freshwater Chronic,0.7977,-3.909,2.5,
+Cadmium,Water,,WWAL,,ug/l,Saltwater Acute,,,,
+Cadmium,Water,,WWAL,,ug/l,Saltwater Chronic,,,,
+Chromium III,Water,,WWAL,,ug/l,Freshwater Acute,0.819,3.7256,5,0.316
+Chromium III,Water,,WWAL,,ug/l,Freshwater Chronic,0.819,0.6848,1,0.86
+Chromium III,Water,,WWAL,,ug/l,Saltwater Acute,,,,
+Chromium III,Water,,WWAL,,ug/l,Saltwater Chronic,,,,
+Chromium VI,Water,,WWAL,,ug/l,Freshwater Acute,,,4.5,0.982
+Chromium VI,Water,,WWAL,,ug/l,Freshwater Chronic,,,6,0.962
+Chromium VI,Water,,WWAL,,ug/l,Saltwater Acute,,,,
+Chromium VI,Water,,WWAL,,ug/l,Saltwater Chronic,,,,
+Copper,Water,,WWAL,,ug/l,Freshwater Acute,,,3.5,0.96
+Copper,Water,,WWAL,,ug/l,Freshwater Chronic,,,2,0.96
+Copper,Water,,WWAL,,ug/l,Saltwater Acute,,,,
+Copper,Water,,WWAL,,ug/l,Saltwater Chronic,,,,
+Lead,Water,,WWAL,,ug/l,Freshwater Acute,1.273,-1.46,4,
+Lead,Water,,WWAL,,ug/l,Freshwater Chronic,1.273,-4.705,4.4,
+Lead,Water,,WWAL,,ug/l,Saltwater Acute,,,,
+Lead,Water,,WWAL,,ug/l,Saltwater Chronic,,,,
+Mercury,Water,,WWAL,,ug/l,Freshwater Acute,,,2,0.85
+Mercury,Water,,WWAL,,ug/l,Freshwater Chronic,,,3,0.85
+Mercury,Water,,WWAL,,ug/l,Saltwater Acute,,,,
+Mercury,Water,,WWAL,,ug/l,Saltwater Chronic,,,,
+Nickel,Water,,WWAL,,ug/l,Freshwater Acute,0.846,2.255,4,0.998
+Nickel,Water,,WWAL,,ug/l,Freshwater Chronic,0.846,0.0584,5,0.997
+Nickel,Water,,WWAL,,ug/l,Saltwater Acute,,,,
+Nickel,Water,,WWAL,,ug/l,Saltwater Chronic,,,,
+Selenium,Water,,WWAL,,ug/l,Freshwater Acute,,,,
+Selenium,Water,,WWAL,,ug/l,Freshwater Chronic,,,,
+Selenium,Water,,WWAL,,ug/l,Saltwater Acute,,,,
+Selenium,Water,,WWAL,,ug/l,Saltwater Chronic,,,,
+Silver,Water,,WWAL,,ug/l,Freshwater Acute,1.72,-6.59,3,0.85
+Silver,Water,,WWAL,,ug/l,Freshwater Chronic,,,,
+Silver,Water,,DWI,,ug/l,Freshwater Acute,1.72,-6.59,3,0.85
+Silver,Water,,DWI,,ug/l,Freshwater Chronic,,,,
+Silver,Water,,PCR,,ug/l,Freshwater Acute,1.72,-6.59,3,0.85
+Silver,Water,,PCR,,ug/l,Freshwater Chronic,,,,
+Silver,Water,,WWAL,,ug/l,Saltwater Acute,,,,
+Silver,Water,,WWAL,,ug/l,Saltwater Chronic,,,,
+Zinc,Water,,WWAL,,ug/l,Freshwater Acute,0.8473,0.884,7,0.978
+Zinc,Water,,WWAL,,ug/l,Freshwater Chronic,0.8473,0.884,8,0.986
+Zinc,Water,,WWAL,,ug/l,Saltwater Acute,,,,
+Zinc,Water,,WWAL,,ug/l,Saltwater Chronic,,,,
+Zinc,Water,,DWI,,ug/l,Freshwater Acute,0.8473,0.884,7,0.978
+Zinc,Water,,DWI,,ug/l,Freshwater Chronic,0.8473,0.884,8,0.986
+Zinc,Water,,PCR,,ug/l,Freshwater Acute,0.8473,0.884,7,0.978
+Zinc,Water,,PCR,,ug/l,Freshwater Chronic,0.8473,0.884,8,0.986
