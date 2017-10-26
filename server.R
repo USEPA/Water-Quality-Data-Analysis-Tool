@@ -2,7 +2,10 @@
 options(shiny.maxRequestSize=60*1024^2)
 
 server <- function(input, output, session) {
-  
+  # for Desktop bat file
+  session$onSessionEnded(function() {
+    stopApp()
+  })
   ############# Data Tab ##########################  
   dataFile <- callModule(csvFile, "dataFile",
                              stringsAsFactors = FALSE, skip = 10)
